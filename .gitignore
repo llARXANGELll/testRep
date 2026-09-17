@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/libraries/testRep.xml
+/misc.xml
+/modules.xml
+/testRep.iml
+/vcs.xml
+/.idea/libraries/testRep.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/testRep.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
